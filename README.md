@@ -39,4 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - Google login using NextAuth
 - Customizable business card editor
 - Export business card as PDF
+## Tech Stack
+- Next.js (App Router)
+- TypeScript
+- NextAuth
+- Tailwind CSS
 
